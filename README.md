@@ -39,7 +39,7 @@ frontEnd = {
           }
 backEnd: {
        
-            javascript : ["Node.js", "Express.js"]
+            javascript : ["Node.js", "Express.js","NestJs"]
             python: ["Django", "Django Rest Framework"]
             
         }
